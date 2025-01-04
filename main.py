@@ -42,8 +42,8 @@ print(thread_id)
 '''
 
 # ----- hardcode our ids, these are from the assistant we created before ------
-assistant_id = "asst_9oHjmVRFnHNM9DhZYwiXKmQG"
-thread_id = "thread_HON8c8wYRobODhNYZUCWPzy5"
+assistant_id = "asst_id_your_own"
+thread_id = "thread_if_your_own"
 
 # ----- create a message -----
 Message = input("What's your question? ")
